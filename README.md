@@ -5,4 +5,7 @@ This project is built on the Google Cloud Platform and the Google Maps JavaScrip
 
 -> Add your MAP_ID in the script.js file
 
+Screengrab:
+![1.PNG](ss/1.png)
 
+![2.PNG](ss/2.png)
